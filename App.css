@@ -1,0 +1,23 @@
+.App {
+  box-sizing: border-box;
+  text-align: center;
+  width: 90%;
+  margin: 10px auto;
+}
+
+.cuadrado {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+.button {
+  background: grey;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 6px;
+}

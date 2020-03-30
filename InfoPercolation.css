@@ -1,0 +1,11 @@
+.lead {
+  font-family: Arial;
+  font-size: 24px;
+}
+
+.info {
+  padding: 24px;
+  width: 80%;
+  margin: 16px auto;
+  text-align: justify;
+}

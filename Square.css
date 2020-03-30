@@ -1,0 +1,19 @@
+.Square {
+  font-size: 10px;
+  background: grey;
+  border: 1px black solid;
+  height: 23px;
+  width: 23px;
+}
+
+.squareBlocked {
+  background: grey;
+}
+
+.squareFull {
+  background: lightblue;
+}
+
+.squareOpen {
+  background: white;
+}
